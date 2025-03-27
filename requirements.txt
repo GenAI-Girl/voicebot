@@ -1,0 +1,14 @@
+flask
+dotenv
+langchain_community
+langchain_google_genai
+langchain_huggingface
+huggingface_hub
+langchain_pinecone
+pinecone
+pypdf
+SpeechRecognition
+PyAudio
+playsound
+gTTS
+PyObjC
